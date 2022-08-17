@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import { FormBook } from './Components/FormBook';
 import { NavBar } from './Components/NavBar';
-import  BookTable  from './Components/BookTable';
+import { FormBook } from './Components/FormBook';
+import BookTable from './Components/BookTable';
 
 function App() {
   return (
